@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kaustubh
-- 👀 I’m interested in Full stack development.
-- 🌱 I'm currently working in Javscript ecosystem, specifically with React.
+- 👀 I’m a full stack developer working with React and Python/Django.
+- 🌱 I'm currently learning and exploring Next.js and Typescript.
 - 💞️ I’m looking to collaborate on projects in full stack and front end development.
 
 <!---
