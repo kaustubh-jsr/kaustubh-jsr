@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kaustubh
+- 👋 Hi, I’m Kaustubh, currently working as UI Engineer at Flipkart.
 - 👀 I’m a full stack developer working with React and Python/Django.
 - 🌱 I'm currently learning and exploring Next.js and Typescript.
 - 💞️ I’m looking to collaborate on projects in full stack and front end development.
